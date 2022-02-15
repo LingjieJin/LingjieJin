@@ -1,11 +1,13 @@
 # 👋 Hi 
-<img align="right" alt="GIF" src="https://github.com/LingjieJin/LingjieJin/blob/main/pic/wechat.jpg">
+<img align="right" alt="GIF" src="https://github.com/LingjieJin/LingjieJin/blob/main/pic/wechat.jpg" width="300" height="300">
 
 ## I’m @LingjieJin
 
 - 👀 I’m interested in c++
 - 🌱 I’m currently learning c++
 - 右边是我的个人微信公众号，需要交流的朋友可以关注一哈
+
+![Lingjie's GitHub stats](https://github-readme-stats.vercel.app/api?username=LingjieJin&show_icons=true&theme=radical)
 
 <!---
 LingjieJin/LingjieJin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

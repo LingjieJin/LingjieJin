@@ -14,9 +14,11 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LingjieJin&show_icons=true&theme=gotham" alt="LingjieJin" />
 
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
  
